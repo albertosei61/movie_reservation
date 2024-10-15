@@ -1,0 +1,1 @@
+CREATE DATABASE movie_reservation_db;
